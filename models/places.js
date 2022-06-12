@@ -15,5 +15,5 @@ module.exports = [{
     city: 'Pittsburg',
     state: 'KS',
     cuisines: 'Coffee',
-    pic: 'coffee.jpg'
+    pic: '/images/coffee.jpg'
   }]
